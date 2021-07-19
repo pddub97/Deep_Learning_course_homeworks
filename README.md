@@ -16,3 +16,9 @@ Completed DL homeworks I did on the course at Skoltech
 4. Trained:
   * Digit classification Linear layer - based network on the MNIST dataset. Compared different activation functions and optimizers. Showed the effect of the Batch normalization and Dropout layers.
   * CNN network for the same task.
+
+## Homework 2 (HW_2_part_1 and HW_2_part_2)
+In this Homework I was training PyTorch skills.
+
+Implemented:
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
