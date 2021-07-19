@@ -1,5 +1,5 @@
-# Deep learning course homeworks
-Completed DL homework I did on the course at Skoltech
+# Deep Learning course homeworks
+Completed DL homeworks I did on the course at Skoltech
 
 ## Homework 1 (HW_1)
 1. Did the matrix differentioation task (github doesn't render LaTeX code from .ipynb)
