@@ -30,3 +30,10 @@ Implemented:
 *  Image multiclass classification problem on the Tiny ImageNet dataset (200 classes, 100K training images, 10K validation images). In comparison to the previous part, I was using all PyTorch functionalities. I used ResNet neywork architecture to solve this problem.
 
 ## Homework 3 ([Google Colab link](https://colab.research.google.com/drive/1xcfRKIbw6vGYuch0DBT7VjInhMoFsC31?usp=sharing))
+Implemented, using UNet architecture:
+* Image segmentation problem from the scratch on the dataset with colon-cancer cells images.
+* Image denoising, where I increased the quality of an image 
+* Image inpainting, here the blind spot of the image was filled in accordance with the rest of the image.
+ Used Autoencoder and Variational Autoencoder to reconstruct face images
+ 
+ 
