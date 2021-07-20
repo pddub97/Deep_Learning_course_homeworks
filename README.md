@@ -27,4 +27,6 @@ Implemented:
 
 ### Part 2
 Implemented:
-* 
+*  Image multiclass classification problem on the Tiny ImageNet dataset (200 classes, 100K training images, 10K validation images). In comparison to the previous part, I was using all PyTorch functionalities. I used ResNet neywork architecture to solve this problem.
+
+## Homework 3 (HW_3)
