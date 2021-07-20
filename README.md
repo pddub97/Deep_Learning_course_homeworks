@@ -34,6 +34,7 @@ Implemented, using UNet architecture:
 * Image segmentation problem from the scratch on the dataset with colon-cancer cells images.
 * Image denoising, where I increased the quality of an image 
 * Image inpainting, here the blind spot of the image was filled in accordance with the rest of the image.
+
  Used Autoencoder and Variational Autoencoder to reconstruct face images
  
 ## Homework 4 (HW_4_part_1 and HW_4_part_2)
