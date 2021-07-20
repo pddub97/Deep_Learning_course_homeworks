@@ -22,5 +22,9 @@ In this Homework I was training PyTorch skills.
 
 ### Part 1
 Implemented:
-* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) in PyTorch
 *  Character recognicion problem on the notMNIST dataset. It consists of 10 letters and 14000 train samples. The solution was made in the low-level PyTorch functionalities.
+
+### Part 2
+Implemented:
+* 
