@@ -36,4 +36,11 @@ Implemented, using UNet architecture:
 * Image inpainting, here the blind spot of the image was filled in accordance with the rest of the image.
  Used Autoencoder and Variational Autoencoder to reconstruct face images
  
- 
+## Homework 4 (HW_4_part_1 and HW_4_part_2)
+NLP practise
+
+### Part 1
+Did the Part of Speech (POS) tagging task ith help of Transformer's Encoder
+
+### Part 2
+Was trying to reconstruct the voiced speech from the text with help of DureIAN architecture
