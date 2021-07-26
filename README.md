@@ -2,7 +2,7 @@
 Completed DL homeworks I did on the course at Skoltech
 
 ## Homework 1 (HW_1)
-1. Did the matrix differentioation task (github doesn't render LaTeX code from .ipynb)
+1. Did the matrix differentiation task (github doesn't render LaTeX code from .ipynb)
 2. Learned the concept of the  Module class, forward and backpropagation passes and the Sequential container class for the chains of modules.
 
 3. Implemented myself in numpy and/or learned:
